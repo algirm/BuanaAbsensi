@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "275815897801",
+    "project_id": "noob-absensi",
+    "storage_bucket": "noob-absensi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275815897801:android:8c6fa05bfc028d0ee0cb18",
+        "android_client_info": {
+          "package_name": "com.noob.absensi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275815897801-umn0ffqhagdf2gi7in4n541hd6e6t2n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe513jNOnkTugRNceM3gTdbunY-qGpOIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275815897801-umn0ffqhagdf2gi7in4n541hd6e6t2n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275815897801:android:f427e5ffbe4a7e68e0cb18",
+        "android_client_info": {
+          "package_name": "com.papb.buanaabsensi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275815897801-umn0ffqhagdf2gi7in4n541hd6e6t2n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe513jNOnkTugRNceM3gTdbunY-qGpOIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275815897801-umn0ffqhagdf2gi7in4n541hd6e6t2n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
