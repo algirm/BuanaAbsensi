@@ -7,7 +7,8 @@ class Constants {
         const val TUTUP_PRESENSI_CODE = 8
         const val TAMBAH_NIP_CODE = 9
         const val REQUEST_CODE_LOCATION_PERMISSION = 10
-        const val LOCATION_OFFICE = "-6.182326175405704,106.67773467064735"
+//        const val LOCATION_OFFICE = "-6.182326175405704,106.67773467064735"
+        const val LOCATION_OFFICE = "-2.912978935726176, 104.69515410148105"
 
         // Tracking Options
         const val LOCATION_UPDATE_INTERVAL = 5000L

@@ -195,7 +195,7 @@ class PresensiFragment : BaseFragment(R.layout.fragment_presensi),
                 officeLocation.longitude,
                 dist
             )
-            viewModel.updateState(lastViewState.copy(atOffice = dist[0] <= 100))
+            viewModel.updateState(lastViewState.copy(atOffice = dist[0] <= 75))
         }
     }
 
@@ -251,7 +251,7 @@ class PresensiFragment : BaseFragment(R.layout.fragment_presensi),
             .center(geoFenceMarker!!.position)
             .strokeColor(Color.argb(50, 70, 70, 70))
             .fillColor(Color.argb(100, 150, 150, 150))
-            .radius(100.0)
+            .radius(75.0)
         geoFenceLimits = map?.addCircle(circleOptions)
     }
 
